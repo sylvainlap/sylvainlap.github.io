@@ -28,6 +28,9 @@
     * https://github.com/balderdashy/sails
 * cordova:
     * http://cordova.apache.org
+* ionic:
+    * http://ionicframework.com
+    * https://github.com/driftyco/ionic
 
 ## links
 
