@@ -32,6 +32,12 @@
     * http://ionicframework.com
     * https://github.com/driftyco/ionic
 
+## libs
+
+* mongo-express:
+    * http://andzdroid.github.io/mongo-express
+    * https://github.com/andzdroid/mongo-express
+
 ## links
 
 * http://notejs.com
